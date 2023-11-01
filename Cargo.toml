@@ -1,10 +1,12 @@
 [package]
 name = "keycloak-access"
+description = "Keycloak generated jwt access validation"
 version = "0.0.1"
 edition = "2021"
 publish = true
 authors = ["Jürgen Seitz <juergen.seitz@h-d-gmbh.de>"]
 rust-version = "1.70"
+license = "MIT"
 
 [dependencies]
 dotenv = "0.15.0"
