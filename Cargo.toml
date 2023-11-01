@@ -2,7 +2,7 @@
 name = "keycloak-access"
 version = "0.0.1"
 edition = "2021"
-publish = false
+publish = true
 authors = ["Jürgen Seitz <juergen.seitz@h-d-gmbh.de>"]
 rust-version = "1.70"
 
